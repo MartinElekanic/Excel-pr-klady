@@ -1,0 +1,17 @@
+Date;ProductID;Region;Units;Unit Price;Channel;Year;Month;ProductName;Revenue
+2025-01-15   ;CEM-001;SK;120;92;Direct;2025;Jan;Cement(tona);11040
+2025-01-18;BRK-045;CZ;800;1.25;Wholesale;2025;Jan;Tehly(kus);1000
+2025-01-20 ;STL-210;PL;15;720;Direct;2025;Jan;Oce?ová výstuž;10800
+2025-02-02 ;INS-330;HU;60;48;Retail;2025;Feb;Izola?ný materiál;2880
+2025-02-10 ;CON-110;AT;30;135;Direct;2025;Feb;Betón(m3);4050
+2025-02-14 ;CEM-001;CZ;200;88;Wholesale;2025;Feb;Cement(tona);17600
+2025-02-20   ;BRK-045;SK;950;1.30;Retail;2025;Feb;Tehly(kus);1235
+2025-03-01 ;STL-210;AT;10;750;Direct;2025;Mar;Oce?ová výstuž;7500
+2025-03-05   ;INS-330;PL;120;44;Wholesale;2025;Mar;Izola?ný materiál;5280
+2025-03-12   ;CON-110;HU;25;128;Direct;2025;Mar;Betón(m3);3200
+2025-03-18    ;CEM-001;PL;300;85;Wholesale;2025;Mar;Cement(tona);25500
+2025-03-22 ;BRK-045;AT;600;1.40;Retail;2025;Apr;Tehly(kus);840
+2025-04-01 ;STL-210;CZ;20;710;Direct;2025;Apr;Oce?ová výstuž;14200
+2025-04-04;INS-330;SK;75;50;Retail;2025;Apr;Izola?ný materiál;3750
+2025-04-10 ;CON-110;PL;40;130;Wholesale;2025;Apr;Betón(m3);3200
+;;;;;;;;;
